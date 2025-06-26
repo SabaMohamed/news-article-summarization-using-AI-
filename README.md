@@ -10,7 +10,7 @@ This project focuses on building a **news article summarization system** using t
 
 - [Dataset](#-dataset)
 - [Model Overview](#-model-overview)
-- [Fine-Tuning Technique](#fine-tuning-technique)
+- [Fine-Tuning Technique](#-fine-tuning-technique)
 - [Project Pipeline](#project-pipeline)
 - [Evaluation](#evaluation)
 - [Results Summary](#-results-summary)
