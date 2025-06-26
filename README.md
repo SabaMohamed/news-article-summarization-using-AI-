@@ -42,7 +42,7 @@ Each entry contains:
 
 ---
 
-## 🛠️ Fine Tuning Technique
+## 🛠️ Fine-Tuning Technique
 
 I employed **QLoRA** (Quantized Low-Rank Adaptation) for parameter-efficient fine-tuning using:
 
