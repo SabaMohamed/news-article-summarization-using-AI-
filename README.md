@@ -84,8 +84,8 @@ The model is evaluated using **ROUGE** and **BLEU** scores over 2000 test sample
 |----------|-----------|
 | ROUGE-1  | 0.359   |
 | ROUGE-2  | 0.157  | 
-| ROUGE-L  |  0.262  | 
-| BLEU     | ~ 0.124   |
+| ROUGE-L  | 0.262  | 
+| BLEU     | 0.124   |
 
 > 🚀 These scores are competitive for small-scale summarization models and show that QLoRA fine-tuning can match larger models' performance with fewer resources.
 
