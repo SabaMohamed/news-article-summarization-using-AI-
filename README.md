@@ -99,7 +99,7 @@ The model is evaluated using **ROUGE** and **BLEU** scores over 2000 test sample
 | Fine-Tuning    | QLoRA + LoRA (PEFT)                  |
 | Precision      | 4-bit (QLoRA)                        |
 | Dataset        | CNN/DailyMail                        |
-| Metrics        | ROUGE-1: 0.35, ROUGE-2: 0.15, BLEU: 0.12 |
+| Metrics        | ROUGE-1: 0.359, ROUGE-2: 0.157, BLEU: 0.124 |
 | Use Case       | Real-time news summarization         |
 
 
